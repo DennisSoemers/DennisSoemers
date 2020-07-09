@@ -1,4 +1,4 @@
-### Hey, I'm Dennis :technologist: [![twitter](https://img.shields.io/twitter/follow/DennisSoemers?style=social)](https://twitter.com/intent/follow?screen_name=DennisSoemers)
+# Hey, I'm Dennis :technologist: [![twitter](https://img.shields.io/twitter/follow/DennisSoemers?style=social)](https://twitter.com/intent/follow?screen_name=DennisSoemers)
 
 I'm a researcher in Artificial Intelligence :robot::brain:, with my primary research interests being **Reinforcement Learning**, **Search algorithms**, **General Game Playing**, and other game AI research :game_die:.
 
