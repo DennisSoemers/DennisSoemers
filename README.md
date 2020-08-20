@@ -19,6 +19,9 @@ I am currently a PhD student :man_student: at [Maastricht University's Departmen
 
 ---
 
+
+<!-- Thanks for these cards to [Anurag Hazra's GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)! -->
+
 <a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=DennisSoemers&count_private=true&show_icons=false" />
 </a>
