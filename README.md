@@ -25,6 +25,8 @@ I am currently a PhD student :man_student: at [Maastricht University's Departmen
 <a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=DennisSoemers&count_private=true&show_icons=false" />
 </a>
+<!--
 <a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennisSoemers" />
 </a>
+-->
