@@ -5,7 +5,7 @@
 
 I'm a researcher in Artificial Intelligence :robot::brain:, with my primary research interests being **Reinforcement Learning**, **Search algorithms**, **General Game Playing**, and other game AI research :game_die:.
 
-I am currently a PhD student :man_student: at [Maastricht University's Department of Data Science and Knowledge Engineering](https://www.maastrichtuniversity.nl/research/department-data-science-and-knowledge-engineering-dke), working on the [ERC](https://erc.europa.eu/)-funded [Digital Ludeme Project](http://www.ludeme.eu/), and the [Ludii general game system](https://ludii.games/).
+I am currently Research Intern at Facebook AI Research, and a PhD student :man_student: at [Maastricht University's Department of Data Science and Knowledge Engineering](https://www.maastrichtuniversity.nl/research/department-data-science-and-knowledge-engineering-dke), working on the [ERC](https://erc.europa.eu/)-funded [Digital Ludeme Project](http://www.ludeme.eu/), and the [Ludii general game system](https://ludii.games/).
 
 ## Also find me on:
 
