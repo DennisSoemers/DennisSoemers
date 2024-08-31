@@ -5,7 +5,7 @@
 
 I'm a researcher in Artificial Intelligence :robot::brain:, with my primary research interests being **Reinforcement Learning**, **Search algorithms**, **General Game Playing**, and other game AI research :game_die:.
 
-I am currently a Postdoctoral Researcher at [Maastricht University's Department of Advanced Computing Sciences](https://www.maastrichtuniversity.nl/dacs). I was previously a Ph.D. candidate at the same department, and a Fall 2020 Research Intern at Facebook AI Research.
+I am currently an Assistant Professor at [Maastricht University's Department of Advanced Computing Sciences](https://www.maastrichtuniversity.nl/dacs).
 
 ## Also find me on:
 
